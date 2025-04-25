@@ -1,0 +1,25 @@
+{
+  "name": "focusclass",
+  "version": "1.0.0",
+  "description": "“Stay focused on your class”",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -b",
+    "start": "node dist/index.js",
+    "dev": "npm run build && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patiabhishek123/FocusClass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patiabhishek123/FocusClass/issues"
+  },
+  "homepage": "https://github.com/patiabhishek123/FocusClass#readme",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
